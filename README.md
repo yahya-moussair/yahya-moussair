@@ -8,15 +8,15 @@
   <img src="https://komarev.com/ghpvc/?username=yahya-moussair&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
-## 🌟 Web Developer | Laravel | React.js | JavaScript
+## 🌟 Web Developer | JavaScript
 
 <p align="center">
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; max-width: 800px; margin: 0 auto;">
-    <div style="text-align: center;">
-      Passionate about web development and creating high-performance, user-friendly applications. Skilled in Laravel, React.js, JavaScript, and modern front-end technologies.
+  <div style="display: flex; align-items: center; gap: 20px; max-width: 100%; margin: 20px auto;">
+    <div align="left">
+     <p style="max-width: 50%;"> Passionate about web development and creating high-performance, user-friendly applications. Skilled in Laravel, React.js, JavaScript, and modern front-end technologies.</p>
     </div>
-    <div style="text-align: center;">
-      <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Web Developer" style="max-width: 100%; height: auto; border-radius: 8px;"/>
+    <div align="right">
+      <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Web Developer" style="max-width: 50%; height: auto; border-radius: 8px;"/>
     </div>
   </div>
 </p>
