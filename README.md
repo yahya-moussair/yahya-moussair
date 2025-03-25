@@ -10,19 +10,22 @@
 
 ## 🌟 Web Developer | JavaScript
 
-<p align="center">
-  <div style="display: flex; align-items: center; gap: 20px; max-width: 100%; margin: 20px auto;">
-    <div align="left">
-     <p style="max-width: 50%;"> Passionate about web development and creating high-performance, user-friendly applications. Skilled in Laravel, React.js, JavaScript, and modern front-end technologies.</p>
+<div dir="auto" style="
+    display: flex;
+    gap: 20px;
+    align-items: center;
+">
+    <div align="left" style="margin-bottom: 100px;">
+     <p dir="auto"> Passionate about web development and creating high-performance, user-friendly applications. Skilled in Laravel, React.js, JavaScript, and modern front-end technologies.</p>
     </div>
-    <div align="right">
-      <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Web Developer" style="max-width: 50%; height: auto; border-radius: 8px;"/>
+    <div align="center" dir="auto" style="
+    width: 100%;
+">
+      <a href="https://camo.githubusercontent.com/69dbfbcfc838751aaa69e8387d6b6d0a2a7e2acdfc5c5b046eb32c5ce57ca775/68747470733a2f2f692e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e77656270" rel="nofollow"><img src="https://camo.githubusercontent.com/69dbfbcfc838751aaa69e8387d6b6d0a2a7e2acdfc5c5b046eb32c5ce57ca775/68747470733a2f2f692e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e77656270" alt="Web Developer" style="border-radius: 20px;max-width: 100%;"></a>
     </div>
   </div>
-</p>
 
 ## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML5" style="margin: 10px;"/>
   <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" style="margin: 10px;"/>
