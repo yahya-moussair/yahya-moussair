@@ -1,34 +1,65 @@
-<h1 align="center">Hi 👋, I'm Yahya Moussair</h1>
-<h3 align="center">A passionate Web Full Stack Developer from Morocco</h3>
+<!-- HEADER -->
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=blue&width=450&lines=%F0%9F%91%8B+Hi%2C+I'm+Yahya+Moussair;🚀+JavaScript+Developer;💡+HTML+%7C+CSS+%7C+Bootstrap+%7C+Tailwind+CSS" />
+</h1>
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yahya-moussair&show_icons=true&locale=en&theme=dark" alt="Stats" style="margin: 5px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahya-moussair&theme=dark" alt="Streak" style="margin: 5px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yahya-moussair&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Langs" style="margin: 5px;"/>
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahya-moussair&label=Profile%20views&color=00ff00&style=flat" alt="yahya-moussair" /> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yahya-moussair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yahya-moussair" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yahya-moussair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yahya-moussair" height="30" width="40" /></a>
-<a href="https://instagram.com/yahya.moussair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yahya.moussair" height="30" width="40" /></a>
-<a href="https://discord.gg/Yahya.Moussair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yahya.Moussair" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" alt="bash" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="css3" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="git" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="mysql" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="Sass" alt="sass" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" alt="tailwind" width="40" height="40"/>
+---
+
+## 📌 About Me  
+
+🔹 Passionate **JavaScript Developer** specializing in **modern frontend and backend development**.  
+🔹 I love **building scalable web applications** and creating **responsive UI/UX**.  
+🔹 Always eager to **learn new technologies** and **collaborate on exciting projects**.  
+
+---
+
+## 🛠 Tech Skills  
+
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="50" height="50"/></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" title="Tailwind CSS" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="50" height="50"/></a>
+</p>  
+
+---
+
+## 📈 GitHub Contributions  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahya-moussair&theme=tokyonight" />
 </p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yahya-moussair&show_icons=true&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahya-moussair&layout=compact&theme=tokyonight" width="49%"/>
+</p>
+
+---
+
+## 📬 Contact Me  
+
+<p align="center">
+  <a href="mailto:yahyamousssair05@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/yahya-moussair"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/yahya-moussair"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" width="600"/>
+</p>
+
+<h3 align="center">🚀 Let's build something amazing together! 🚀</h3>
