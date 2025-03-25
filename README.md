@@ -1,50 +1,50 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=HELLO%2C+I'M+Yahya+Moussair!;WELCOME+TO+MY+GITHUB+%F0%9F%91%8B" alt="Typing Animation" />
-  </a>
-</h1>
+<h2 align="left">Hi 👋! My name is Yahya Moussair and I'm a Web Full Stack Developer from Morocco</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yahya-moussair&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
+###
 
-## 🌟 Web Developer | JavaScript
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yahya-moussair&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yahya-moussair&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<div dir="auto" style="
-    display: flex;
-    gap: 20px;
-    align-items: center;
-">
-    <div align="left" style="margin-bottom: 100px;">
-     <p dir="auto"> Passionate about web development and creating high-performance, user-friendly applications. Skilled in Laravel, React.js, JavaScript, and modern front-end technologies.</p>
-    </div>
-    <div align="center" dir="auto" style="
-    width: 100%;
-">
-      <a href="https://camo.githubusercontent.com/69dbfbcfc838751aaa69e8387d6b6d0a2a7e2acdfc5c5b046eb32c5ce57ca775/68747470733a2f2f692e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e77656270" rel="nofollow"><img src="https://camo.githubusercontent.com/69dbfbcfc838751aaa69e8387d6b6d0a2a7e2acdfc5c5b046eb32c5ce57ca775/68747470733a2f2f692e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e77656270" alt="Web Developer" style="border-radius: 20px;max-width: 100%;"></a>
-    </div>
-  </div>
+###
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML5" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/color/96/000000/tailwindcss.png" alt="TailwindCSS" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/color/96/000000/bootstrap.png" alt="Bootstrap" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/color/96/000000/sass.png" alt="Sass" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/color/96/000000/bash.png" alt="Bash" style="margin: 10px;"/>
-</p>
+<img align="right" height="200" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47wxyy4fu1jfuerqt0o625y87jj6d4f1e0albw2pv3&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-## 📊 GitHub Stats
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yahya-moussair&show_icons=true&theme=radical" alt="GitHub Stats" style="display: block; margin: 0 auto;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahya-moussair&layout=compact&theme=radical" alt="Top Languages" style="display: block; margin: 0 auto;"/>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
+</div>
 
-## 📫 Connect with Me
+###
 
-📌 **LinkedIn:** [linkedin.com/in/YahyaMoussair](https://linkedin.com/in/YahyaMoussair)  
-📌 **GitHub:** [github.com/yahya-moussair](https://github.com/yahya-moussair)  
-📌 **Email:** [yahyamoussair05@gmail.com](mailto:yahyamoussair05@gmail.com)
+<br clear="both">
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+</div>
+
+###
