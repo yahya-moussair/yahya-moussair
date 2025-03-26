@@ -48,14 +48,14 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://discord.com/users/yahya.moussair" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+  <a href="https://discord.com/users/yahya.moussair" target="_blank" style="text-decoration: none;" class="social-links">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:yahyamoussair05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  <a href="mailto:yahyamoussair05@gmail.com" target="_blank" style="text-decoration: none;" class="social-links">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/yahya-moussair" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/yahya-moussair" target="_blank" style="text-decoration: none;" class="social-links">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
