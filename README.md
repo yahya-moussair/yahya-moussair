@@ -7,11 +7,11 @@ Passionate about building scalable web applications with Laravel, React.js, and 
     🔹 Currently working on a website builder and improving dynamic product listings.
     🔹 Learning advanced Laravel, React.js, and API development.
     
-    📫 Let's connect!
+## 📫 Let's connect!
     
-    🔗 LinkedIn
+🔗 LinkedIn
     
-    📧 Email
+📧 Email
 
 
 # 💻 Tech Stack:
