@@ -10,7 +10,7 @@
     🔹 Currently working on a website builder and improving dynamic product listings.  
     🔹 Learning advanced Laravel, React.js, and API development.  
 
-📫 **Let's connect!  
+📫 Let's connect!  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yahya-moussair/)  
 - 📧 [Email](mailto:yahyamoussair05@gmail.com)  
 
