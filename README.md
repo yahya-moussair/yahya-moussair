@@ -1,16 +1,16 @@
 # Hi, I'm Yahya Moussair 👋  
 
-    💻 **Web Developer | Laravel & JavaScript**  
-    Passionate about building scalable web applications with **Laravel, React.js, and Java**.  
+    💻 Web Developer | PHP & JavaScript  
+    Passionate about building scalable web applications with PHP, JavaScript  
     
-    🚀 **Tech Stack:**  
-    - PHP (Laravel) • JavaScript (ES6) • React.js • MySQL  
+    🚀 Tech Stack:  
+    - PHP • JavaScript (ES6) • MySQL  
     - Tailwind CSS • Bootstrap • Git  
     
-    🔹 Currently working on a **website builder** and improving **dynamic product listings**.  
-    🔹 Learning **advanced Laravel, React.js, and API development**.  
+    🔹 Currently working on a website builder and improving dynamic product listings.  
+    🔹 Learning advanced Laravel, React.js, and API development.  
 
-📫 **Let's connect!**  
+📫 **Let's connect!  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yahya-moussair/)  
 - 📧 [Email](mailto:yahyamoussair05@gmail.com)  
 
